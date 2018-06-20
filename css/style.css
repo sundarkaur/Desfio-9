@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Raleway:300,700');
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+}
+
+.fila1{
+	background-color: #E56353;
+	height: 350px;
+	padding: 70px;
+	text-align: center;
+	color: white;
+}
+
+.fila2{
+	background-color: #707070;
+	height: 435px;
+}
+#historia{
+	width: 630px;
+	height: 435px;
+}
+.tit-histo{
+	text-align: left;
+	padding-right: 70px;
+	padding-top: 80px;
+	color: white;
+}
+.histo{
+	color: white;
+}
+.limache{
+	text-align: left;
+	padding-right: 70px;
+	color: white;
+}
+
+.fila3{
+	background-color: #FAFAFA;
+	height: 435px;
+}
+
+.tit-desde{
+	color: black;
+	padding-top: 40px;
+	padding-left: 20px;
+}
+
+#tomatoes{
+	height: 435px;
+	width: 540px;
+	padding-left: 60px;
+}
+.limache{
+	color: black;
+	padding-left: 20px;
+}
+
+.fila4{
+	background-color: #E56353;
+    height: 240px;
+    text-align: center;
+	
+}
+
+#nosotros{
+	color: white;
+	font-size: 70px;
+	padding-top: 80px;
+}
+
+.fila5{
+	background-color: #FAFAFA;
+}
+#javiera{
+	width: 350px;
+	padding-top: 50px;
+	padding-left: 100px;
+}
+#tit-javi{
+    padding-top: 70px;
+    margin-right: 100px;
+}
+#javi-text{
+ }
