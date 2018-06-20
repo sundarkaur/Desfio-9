@@ -1,12 +1,21 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans|Raleway:300,700');
 
-body {
+ {
 	font-family: 'Open Sans', sans-serif;
-}
+ }
 
-h1 {
-	font-family: 'Raleway', sans-serif;
-	font-weight: 300;
+
+#link1{
+    color: black;
+}
+#link2{
+    color: black;
+}
+#link3{
+    color: black;
+}
+#link4{
+    color: black;
 }
 
 .fila1{
@@ -16,6 +25,14 @@ h1 {
 	text-align: center;
 	color: white;
 }
+#tit-fila1{
+	font-size: 60px;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+	margin-top: 50px;
+}
+
+
 
 .fila2{
 	background-color: #707070;
@@ -45,10 +62,11 @@ h1 {
 	height: 435px;
 }
 
-.tit-desde{
+#tit-desde{
 	color: black;
 	padding-top: 40px;
 	padding-left: 20px;
+	font-family: 'Open Sans', sans-serif;
 }
 
 #tomatoes{
@@ -76,15 +94,91 @@ h1 {
 
 .fila5{
 	background-color: #FAFAFA;
+	height: 390px;
 }
 #javiera{
-	width: 350px;
-	padding-top: 50px;
+	width: 450px;
+	padding-top: 90px;
 	padding-left: 100px;
 }
 #tit-javi{
-    padding-top: 70px;
-    margin-right: 100px;
+    padding-top: 110px;
+    padding-left: 7px;
 }
-#javi-text{
+.javi-text{
+	margin-right: 50px;
+    padding-right: 50px;
  }
+
+.fila6{
+	background-color: #FAFAFA;
+	height: 560px;
+}
+#roberto{
+	width: 450px;
+	padding-top: 100px;
+	padding-left: 100px;
+}
+#tit-robert{
+    padding-top: 160px;
+   
+    padding-left: 7px;
+}
+.robert-text{
+	margin-right: 50px;
+    padding-right: 50px;
+ }
+.fila7{
+	background-color: #E56353;
+	text-align: center;
+	height: 230px;
+}
+#tit-fil-7{
+    color: white;
+    padding: 20px;
+}
+#boton{
+	background-color: white;
+	border-radius: 30px;
+	width: 300px;
+	height: 55px;
+	color: black;
+    border: none;
+}
+
+
+.footer{
+	width: 100%;
+	height: 210px;
+	background-color: #686963;
+}
+
+#logo-foot{
+	width: 180px;
+	padding-top: 70px;
+	margin-left: 70px;
+}
+
+.cont-logo{
+	float: left;
+	margin-left: 30px;
+}
+
+.cont-link{
+	float: right;
+	margin-right: 150px;
+	padding-top: 10px;
+}
+
+#acerca{
+	color: white;
+}
+#productos{
+    color: white;
+}
+#blog{
+    color: white;
+}
+#contacto{
+    color: white;
+}
