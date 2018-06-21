@@ -1,4 +1,4 @@
-https://github.com/sundarkaur/Desfio-9
+https://sundarkaur.github.io/Desfio-9/
 
 # Proceso de maquetación:
 ## Organizacion de todos los antecedentes;
@@ -18,6 +18,8 @@ https://github.com/sundarkaur/Desfio-9
 ## Empecé por la estructura del HTML, incorporando códigos de Bootstraps que seleccioné anteriomente, y creé el archivo.
 ## Creé un nuevo archivo para los códigos CSS.
 ## Y con todo dispuesto comencé a realizar el Blog.
+
+https://sundarkaur.github.io/Desfio-9/
 
 ![](img/listado.png)
 ![](img/maqueta1.png)
